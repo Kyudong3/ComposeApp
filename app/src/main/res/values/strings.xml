@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">ComposeApp</string>
+
+    <string name="android">Android</string>
+    <string name="ios">Ios</string>
+    <string name="web">Web</string>
+    <string name="server">Server</string>
 </resources>
